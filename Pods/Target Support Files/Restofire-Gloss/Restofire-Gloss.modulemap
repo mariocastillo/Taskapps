@@ -1,0 +1,6 @@
+framework module Restofire_Gloss {
+  umbrella header "Restofire-Gloss-umbrella.h"
+
+  export *
+  module * { export * }
+}

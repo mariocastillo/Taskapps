@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (3.3.1)
+  - Gloss (0.7.3)
+  - HTTPStatusCodes (2.0.2)
+  - RestEssentials (1.0.1)
+  - Restofire (1.1.0):
+    - Restofire/Core (= 1.1.0)
+  - Restofire-Gloss (1.0.1):
+    - Restofire-Gloss/Core (= 1.0.1)
+  - Restofire-Gloss/Core (1.0.1):
+    - Alamofire (~> 3.0)
+    - Gloss (~> 0.7)
+    - Restofire (~> 1.0)
+  - Restofire/Core (1.1.0):
+    - Alamofire (~> 3.0)
+  - SQLite.swift (0.10.1)
+  - SwiftRestModel (1.0.4):
+    - Alamofire (~> 3.3.1)
+    - HTTPStatusCodes (~> 2.0.2)
+    - SwiftyJSON (~> 2.3.2)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - RestEssentials
+  - Restofire
+  - Restofire-Gloss
+  - SQLite.swift (~> 0.10)
+  - SwiftRestModel
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  Gloss: c97a95d6279821f35fa0138700bce0391bce87c1
+  HTTPStatusCodes: 60713f0bc67cd1a03ebe2740c8a765788c720ef5
+  RestEssentials: 8e89f45c7258e966e4f1228c07a45b090e82f4fc
+  Restofire: d5b61a83a943273347bd77175d50d276236ca399
+  Restofire-Gloss: 27f900f0a4319bd5e469d6c639738fc14b5dd8e4
+  SQLite.swift: 6a6e4b034efc317ce4e203b6af2d3024fee2b570
+  SwiftRestModel: 0d50d8d97b7ce5d24b617b3605b7e39f98825609
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 0b808e063ed2d37599cf801a9b8f764389e3ce8f
+
+COCOAPODS: 1.0.0
